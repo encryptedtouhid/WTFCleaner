@@ -1,4 +1,4 @@
-WTF Cleaner
+#WTF Cleaner
 
 ## 1. Install the Prerequisites
 
