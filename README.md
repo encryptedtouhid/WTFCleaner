@@ -1,5 +1,5 @@
 # WTF Cleaner 😂🤣
-### A Windows Temporary File Cleaner
+### [ A Windows Temporary File Cleaner ]
 
 ## 1. Install the Prerequisites
 
