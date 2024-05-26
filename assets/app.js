@@ -23,5 +23,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const clearButton = document.querySelector("button");
     if (clearButton) {
         clearButton.addEventListener("click", clearTempFolders);
+        if (clearTempFolders) {
+            alert("clearTempFolders is not empty!");
+        }
+        
     }
 });
