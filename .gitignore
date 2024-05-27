@@ -1,5 +1,0 @@
-# Ignore build/bin directories
-[Bb]uild/
-build_*/
-boost*/
-.DS_Store
