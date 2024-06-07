@@ -11,6 +11,6 @@ int main() {
      cleaner.clearTempFolder(TempFolder::TEMP_INTERNET_FILES);
      cleaner.clearTempFolder(TempFolder::HISTORY);
      cleaner.clearTempFolder(TempFolder::JAVA_CACHE);
-
+    std::cout << "Deletion process is complete." << std::endl;
     return 0;
 }
